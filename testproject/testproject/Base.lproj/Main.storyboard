@@ -32,6 +32,11 @@
                                     <color key="titleColor" red="1" green="0.52427742580000003" blue="0.55896583079999995" alpha="1" colorSpace="calibratedRGB"/>
                                 </state>
                             </button>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yks-C9-NYI">
+                                <rect key="frame" x="187" y="434" width="46" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Button"/>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="0.84674909769304652" green="1" blue="0.78316015106540238" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
